@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@jekinsd/utils",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
@@ -11,5 +11,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 2"
   },
-  "gitHead": "bd50ad77b812aa39c41d49c696ee4190ea4a2f92"
+  "gitHead": "4e8ff765d9f7314fe1264650e736bb05eddc07cd"
 }
