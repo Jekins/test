@@ -5,9 +5,9 @@
   "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
   "homepage": "",
   "license": "ISC",
-  "files": [
-    "lib"
-  ],
+  "publishConfig": {
+    "directory": "publish"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 2"
   },
