@@ -2,8 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.7",
-  "publishConfig": {
-    "directory": "lib"
-  }
+  "version": "0.0.7"
 }
