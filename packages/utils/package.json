@@ -12,7 +12,7 @@
     "test": "echo \"Error: run tests from root\" && exit 2"
   },
   "dependencies": {
-    "@jekinsd/utils": "^0.0.5"
+    "@jekinsd/utils": "^0.0.9"
   },
   "gitHead": "28b42f3275042403f3c05a12bfe01f209af3e34c"
 }

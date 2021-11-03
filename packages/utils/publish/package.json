@@ -5,11 +5,17 @@
   "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
   "homepage": "",
   "license": "ISC",
+  "publishConfig": {
+    "directory": "publish"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@jekinsd/utils": "^0.0.9"
+  },
+  "gitHead": "28b42f3275042403f3c05a12bfe01f209af3e34c",
+  "devDependencies": {},
   "main": "lib/utils.js",
   "files": [
     "lib"
-  ],
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  ]
 }
