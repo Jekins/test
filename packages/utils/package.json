@@ -1,0 +1,14 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
+  "homepage": "",
+  "license": "ISC",
+  "files": [
+    "publish"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
