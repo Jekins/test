@@ -1,6 +1,6 @@
 {
   "name": "@jekinsd/utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
   "homepage": "",
@@ -12,7 +12,7 @@
     "test": "echo \"Error: run tests from root\" && exit 2"
   },
   "dependencies": {
-    "@jekinsd/utils": "0.0.3"
+    "@jekinsd/utils": "^0.0.4"
   },
   "gitHead": "4e8ff765d9f7314fe1264650e736bb05eddc07cd"
 }
