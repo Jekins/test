@@ -9,6 +9,7 @@
     "publish"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+    "test": "echo \"Error: run tests from root\" && exit 2"
+  },
+  "gitHead": "bd50ad77b812aa39c41d49c696ee4190ea4a2f92"
 }
