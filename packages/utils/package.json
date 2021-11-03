@@ -6,10 +6,13 @@
   "homepage": "",
   "license": "ISC",
   "files": [
-    "publish"
+    "lib"
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 2"
+  },
+  "dependencies": {
+    "@jekinsd/utils": "0.0.3"
   },
   "gitHead": "4e8ff765d9f7314fe1264650e736bb05eddc07cd"
 }
