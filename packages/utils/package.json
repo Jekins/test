@@ -1,5 +1,5 @@
 {
-  "name": "@jekinsd/main",
+  "name": "@jekinsd/utils",
   "version": "0.0.8",
   "description": "> TODO: description",
   "author": "Artem Zhekov <artem.zhekov@approvalmax.com>",
@@ -14,5 +14,5 @@
   "dependencies": {
     "@jekinsd/utils": "^0.0.5"
   },
-  "gitHead": "89b3c67e90911108b68ac26abce1c8273c057129"
+  "gitHead": "28b42f3275042403f3c05a12bfe01f209af3e34c"
 }
